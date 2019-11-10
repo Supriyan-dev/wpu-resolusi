@@ -1,6 +1,7 @@
 RENCANA CONTENT NEW E-LEARNING BABASTUDIO
 - Membuat video materi HTML dan CSS
 - Membuat video matari bootstrap
+- Membuat Fungsi Struktur data dasar
 - Membuat video materi php native
   *company privile
   *e-commerce
