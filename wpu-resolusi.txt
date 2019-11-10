@@ -2,3 +2,5 @@ WPU RESOLUSI
 - Konsisten untuk membuat kontent 2x dalam 1 minggu
 - Membuat platform untuk pengenalan video materi
 - Membuat form diskusi
+- Membuat Layanan chat online
+- Untuk fitur download ebbok
