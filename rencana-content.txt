@@ -6,4 +6,5 @@ RENCANA CONTENT NEW E-LEARNING BABASTUDIO
   *company privile
   *e-commerce
 - Membuat video materi php framework
-  *codeigniter
+  *laravel
+
